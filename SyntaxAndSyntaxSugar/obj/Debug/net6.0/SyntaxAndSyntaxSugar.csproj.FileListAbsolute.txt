@@ -1,0 +1,15 @@
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\net6.0\SyntaxAndSyntaxSugar.exe
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\net6.0\SyntaxAndSyntaxSugar.deps.json
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\net6.0\SyntaxAndSyntaxSugar.runtimeconfig.json
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\net6.0\SyntaxAndSyntaxSugar.dll
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\bin\Debug\net6.0\SyntaxAndSyntaxSugar.pdb
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.csproj.AssemblyReference.cache
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.AssemblyInfoInputs.cache
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.AssemblyInfo.cs
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.csproj.CoreCompileInputs.cache
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.dll
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\refint\SyntaxAndSyntaxSugar.dll
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.pdb
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\SyntaxAndSyntaxSugar.genruntimeconfig.cache
+C:\Users\heigh\Desktop\Repos\SyntaxAndSyntaxSugar\SyntaxAndSyntaxSugar\obj\Debug\net6.0\ref\SyntaxAndSyntaxSugar.dll
